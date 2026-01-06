@@ -1,1 +1,1 @@
-# PS_MaratonaCIn2026
+# Algoritmos
